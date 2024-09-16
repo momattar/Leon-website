@@ -184,10 +184,10 @@ body {
     color: #666666;
 }
 @media (max-width: 767px) {
-    .special-heading {
+    .section-heading {
         font-size: 60px;
     }
-    .special-heading + p {
+    .section-heading + p {
         margin-top: -20px;
     }
 }
